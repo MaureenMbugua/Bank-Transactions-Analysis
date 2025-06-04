@@ -1,4 +1,4 @@
-# Transaction Insights to Shape a Strategic Banking Model
+# Transaction Insights to Inform Banking Model
 
 ## Project Overview
 This project explores synthesized transaction data from Huduma Bank, a hypothetical financial institution. The goal was to analyze transaction trends, identify business insights, and recommend strategies to refine the bank’s business model. The project showcases my skills in data cleaning, Excel analysis, storytelling, and data visualization.
