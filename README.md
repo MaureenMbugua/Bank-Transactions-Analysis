@@ -15,10 +15,10 @@ This project explores synthesized transaction data from Huduma Bank, a hypotheti
 
 ## Project Structure
 
-- [README.md] - A project overview and guide.
-- [Huduma_Transaction_Analysis.xlsx] - The main Excel workbook with cleaned data, pivot tables, and dashboard.
-- [Huduma_Bank_Report.pdf] - The final report with analysis, insights, and recommendations.
-- [/visuals] - Pivot tables, visuals, dashboard, and other images used in the report.
+- [README.md](https://github.com/MaureenMbugua/Bank-Transactions-Analysis/blob/main/README.md) - A project overview and guide.
+- [Huduma_Transaction_Analysis.xlsx](https://github.com/MaureenMbugua/Bank-Transactions-Analysis/blob/main/Huduma_Transaction_Analysis.xlsx) - The main Excel workbook with cleaned data, pivot tables, and dashboard.
+- [Bank Transactions Analysis.ipynb](https://github.com/MaureenMbugua/Bank-Transactions-Analysis/blob/main/Bank%20Transactions%20Analysis.ipynb) - The final report with analysis, insights, and recommendations.
+- [Images](https://github.com/MaureenMbugua/Bank-Transactions-Analysis/tree/main/Images) - Pivot tables, visuals, dashboard, and other images used in the report.
 
 ## Key Findings
 - POS transactions dominate in volume → highlight strong everyday banking engagement.
@@ -45,8 +45,8 @@ This project explores synthesized transaction data from Huduma Bank, a hypotheti
 
 ## How to Explore the Project
 
-1. Open the Excel workbook [Huduma_Transaction_Analysis.xlsx]
+1. Open the [Excel workbook](https://github.com/MaureenMbugua/Bank-Transactions-Analysis/blob/main/Huduma_Transaction_Analysis.xlsx)
 
     Explore the `Cleaned version`, `Pivot tables`, and `Dashboard` sheets.
 
-2. Read the final report [Huduma_Bank_Report.pdf] for a detailed analysis.
+2. Read the final report [Bank Transactions Analysis.ipynb](https://github.com/MaureenMbugua/Bank-Transactions-Analysis/blob/main/Bank%20Transactions%20Analysis.ipynb) - The final report with analysis, insights, and recommendations. for a detailed analysis.
